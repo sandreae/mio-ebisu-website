@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="single-container">
+  	<div class="single">
+    	<img src="{{ site.baseurl }}/assets/{{ page.category }}/{{ page.image }}" alt="{{ page.title }}" />
+	<ul>
+		<li>{{ page.title }}</li>
+		<li>{{ page.size }}</li>
+		<li>{{ page.materials }}</li>
+		<li>{{ page.year }}</li>
+		{% if page.description %} <i>{{ page.description}}</i>{% endif %}
+	</ul>	
+  	</div>
+
+  {{ content }}
+
+</div>

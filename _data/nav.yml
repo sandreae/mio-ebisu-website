@@ -1,0 +1,23 @@
+- title: "Home"
+  href: "/home/"
+
+- title: "About"
+  href: "/about/"
+
+- title: "Artist Statement"
+  href: "/artist-statement/"
+
+- title: "Contact"
+  href: "/contact/"
+
+- title: "Recent Works"
+  href: "/recent/"
+
+- title: "Drawings"
+  href: "/drawings/"
+
+- title: "Paintings"
+  href: "/archive/"
+
+- title: "Exhibitions"
+  href: "/exhibitions/"
