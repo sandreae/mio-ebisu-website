@@ -12,8 +12,8 @@ layout: paintings
 title: Paintings
 permalink: /paintings/
 type: paintings
-series: lewisham
-- title: 
+series: 
+- title: lewisham
   description: 
 
   ---
@@ -21,8 +21,8 @@ layout: paintings
 title: Paintings
 permalink: /paintings/
 type: paintings
-series:bambinart
-- title: 
+series:
+- title: bambinart
   description: 
 
   ---
@@ -30,8 +30,8 @@ layout: paintings
 title: Paintings
 permalink: /paintings/
 type: paintings
-series: landscape
-- title: 
+series: 
+- title: landscape
   description: 
 
   ---
@@ -39,8 +39,8 @@ layout: paintings
 title: Paintings
 permalink: /paintings/
 type: paintings
-series: tokyo
-- title: 
+series: 
+- title: tokyo
   description: 
 
   ---
@@ -48,8 +48,8 @@ layout: paintings
 title: Paintings
 permalink: /paintings/
 type: paintings
-series: pop
-- title: 
+series: 
+- title: pop
   description: 
 
   ---
@@ -57,16 +57,16 @@ layout: paintings
 title: Paintings
 permalink: /paintings/
 type: paintings
-series: blackandwhite
-- title: 
+series: 
+- title: blackandwhite
   description:
 
   layout: paintings
 title: Paintings
 permalink: /paintings/
 type: paintings
-series: berlin
-- title: 
+series: 
+- title: berlin 
   description:  
 
 
