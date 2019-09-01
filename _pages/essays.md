@@ -93,11 +93,6 @@ I am organizing a group exhibition in the first weekend of October at the projec
 
 
 
-![](https://i.imgur.com/0VeOxpD.jpg)
-![](https://i.imgur.com/L3AiSlG.jpg)
-![](https://i.imgur.com/gC0bpzy.jpg)
-
-![](https://i.imgur.com/ZgKzTqD.jpg)
 
 
 # After graduate
