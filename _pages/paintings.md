@@ -4,29 +4,24 @@ title: Paintings
 permalink: /paintings/
 type: paintings
 series:
-- title: 
-  description: 
-
-  ---
-
 - title: lewisham
-  description: 
+  description: a
+ 
 
-  ---
 
 
 - title: bambinart
-  description: 
+  description: a
 
   ---
 
 - title: landscape
-  description: 
+  description: a
 
-  ---
+  
  
 - title: tokyo
-  description: 
+  description: a
 
   ---
 
