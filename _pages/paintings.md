@@ -7,22 +7,18 @@ series:
 - title: lewisham
   description: a
  
-
-
-
-- title: bambinart
-  description: a
-
-  
+- title: berlin 
+  description:  
 
 - title: landscape
   description: a
 
+- title: bambinart
+  description: a
   
  
 - title: tokyo
   description: a
-
   
 
 - title: pop
@@ -34,8 +30,6 @@ series:
 
 
 
-- title: berlin 
-  description:  
 
 
 
