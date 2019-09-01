@@ -1,7 +1,7 @@
 ---
 title: ブルックリン Brooklyn
 category: paintings
-series: 
+series: none
 year: 2011
 image: brooklyn.jpg
 size: 

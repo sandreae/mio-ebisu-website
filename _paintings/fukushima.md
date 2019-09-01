@@ -1,7 +1,7 @@
 ---
 title: Fukushima Daiichi Nuclear Power Plant
 category: paintings
-series: 
+series: none
 year: 2012
 image: fukushima.jpg
 size: 

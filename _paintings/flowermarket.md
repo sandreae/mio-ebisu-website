@@ -1,7 +1,7 @@
 ---
 title: Flower Market
 category: paintings
-series: 
+series: none
 year: 2019
 image: flowermarket.JPG
 size: 
