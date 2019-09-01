@@ -1,7 +1,7 @@
 ---
 layout: Interdisciplinary Practice 
 title: Interdisciplinary Practice 
-permalink: /interdiscipinarypractice
+permalink: /interdiscipinarypractice/
 ---
 
 
