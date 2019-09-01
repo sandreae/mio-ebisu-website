@@ -3,8 +3,7 @@ layout: default
 ---
 <div class="gallery">
 <ul>
-  {% assign sorted_paintings = site.paintings | sort: 'series' %}
-  {% for painting in sorted_paintings %}
+  {% for painting in site.paintings %}
   	{% if painting.year == page.year %}
     <li>
 	  <div class="image-container">
