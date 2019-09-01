@@ -13,7 +13,7 @@ series:
 - title: bambinart
   description: a
 
-  ---
+  
 
 - title: landscape
   description: a
@@ -23,7 +23,7 @@ series:
 - title: tokyo
   description: a
 
-  ---
+  
 
 - title: pop
   description: 
@@ -32,8 +32,7 @@ series:
 - title: blackandwhite
   description:
 
-- title: Paintings
-permalink: /paintings/
+
 
 - title: berlin 
   description:  
