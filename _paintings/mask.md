@@ -1,7 +1,7 @@
 ---
 title: Mask
 category: paintings
-series: tokyo
+series: emotion
 year: 2012
 image: mask.jpg
 size: 

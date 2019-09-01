@@ -2,7 +2,7 @@
 
 title: Houseboat
 category: paintings
-series: bambinart
+series: place
 year: 2012
 image: houseboat.jpg
 size: 

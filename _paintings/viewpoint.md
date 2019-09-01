@@ -2,7 +2,7 @@
 
 title: Viewpoint in Rain
 category: paintings
-series: beppu
+series: place
 year: 2013
 image: viewpoint.jpg
 size: 

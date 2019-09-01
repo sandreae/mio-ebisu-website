@@ -1,7 +1,7 @@
 ---
 title: Snowdrop 
 category: paintings
-series: berlin
+series: landscape
 year: 2018
 image: snowdrop-small.JPG
 size: 

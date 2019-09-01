@@ -2,7 +2,7 @@
 
 title: ついに脳を飲む I start drinking my brain
 category: paintings
-series: bambinart
+series: emotion
 year: 2017
 image: brain.jpg
 size: 

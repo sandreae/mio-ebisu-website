@@ -1,7 +1,7 @@
 ---
 title: Tokoya
 category: paintings
-series: tokyo
+series: place
 year: 2012
 image: tokoya.jpg
 size: 

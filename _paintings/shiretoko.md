@@ -1,7 +1,7 @@
 ---
 title: 知床クルーズ Shiretoko Cruise
 category: paintings
-series: tokyo
+series: landscape
 year: 2012
 image: shiretoko.jpg
 size: 

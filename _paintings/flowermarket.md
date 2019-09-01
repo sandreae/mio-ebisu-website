@@ -1,7 +1,7 @@
 ---
 title: Flower Market
 category: paintings
-series: lewisham
+series: fragments of memories
 year: 2019
 image: flowermarket.JPG
 size: 

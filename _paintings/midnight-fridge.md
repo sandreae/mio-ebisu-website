@@ -1,7 +1,7 @@
 ---
 title: Midnight Fridge
 category: paintings
-series: tokyo
+series: urban
 year: 2014
 image: midnight-fridge.jpg
 size: 

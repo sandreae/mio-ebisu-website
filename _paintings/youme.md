@@ -1,7 +1,7 @@
 ---
 title: youmeタウン youme town
 category: paintings
-series: beppu
+series: place
 year: 2013
 image: youme.jpg
 size: 

@@ -1,7 +1,7 @@
 ---
 title: Pile of pea
 category: paintings
-series: lewisham
+series: simple
 year: 2019
 image: pileofpea.JPG
 size: 

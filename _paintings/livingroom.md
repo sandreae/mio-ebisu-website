@@ -1,7 +1,7 @@
 ---
 title: Livingroom
 category: paintings
-series: bambinart
+series: place
 year: 2014
 image: livingroom.jpg
 size: 

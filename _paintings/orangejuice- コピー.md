@@ -1,7 +1,7 @@
 ---
 title: Orangejuice 
 category: paintings
-series: lewisham
+series: fragments of memories
 year: 2019
 image: orangejuice.jpg
 size: 

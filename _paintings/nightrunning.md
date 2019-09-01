@@ -1,7 +1,7 @@
 ---
 title: 
 category: paintings
-series: bambinart
+series: emotion
 year: 2018
 image: nightview.JPG
 size: 

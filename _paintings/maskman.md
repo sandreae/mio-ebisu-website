@@ -1,7 +1,7 @@
 ---
 title: Maskman
 category: paintings
-series: tokyo
+series: emotion
 year: 2012
 image: maskman.jpg
 size: 

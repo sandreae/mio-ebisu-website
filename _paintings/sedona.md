@@ -1,7 +1,7 @@
 ---
 title: セドナ Sedona
 category: paintings
-series: tokyo
+series: landscape
 year: 2012
 image: sedona.jpg
 size: 

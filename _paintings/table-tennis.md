@@ -1,7 +1,7 @@
 ---
 title: Table Tennis
 category: paintings
-series: beppu
+series: place
 year: 2015
 image: table-tennis.jpg
 size: 

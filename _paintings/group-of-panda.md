@@ -1,7 +1,7 @@
 ---
 title: Group of Panda
 category: paintings
-series: blackandwhite
+series: monotone
 year: 2017
 image: group-of-panda.jpg
 size: 100cmx80cm

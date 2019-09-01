@@ -1,7 +1,7 @@
 ---
 title: Portrait
 category: paintings
-series: pop
+series: simple
 year: 2017
 image: portrait.jpg
 size: 80.3cmx100cm

@@ -1,7 +1,7 @@
 ---
 title: Staris and Canal
 category: paintings
-series: lewisham
+series: fragments of memories
 year: 2019
 image: stairsandcanal.jpg
 size: 

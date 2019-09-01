@@ -1,7 +1,7 @@
 ---
 title: New York
 category: paintings
-series: tokyo
+series: urban
 year: 2012
 image: newyork.jpg
 size: 

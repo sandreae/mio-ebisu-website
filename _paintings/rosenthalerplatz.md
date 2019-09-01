@@ -1,7 +1,7 @@
 ---
 title: Rosenthaler Platz
 category: paintings
-series: pop
+series: simple
 year: 2016
 image: rosenthalerplatz.jpg
 size: 

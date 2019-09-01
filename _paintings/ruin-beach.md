@@ -1,7 +1,7 @@
 ---
 title: Ruin Beach
 category: paintings
-series: blackandwhite
+series: place
 year: 2017
 image: ruin-beach.jpg
 size: 

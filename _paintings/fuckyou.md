@@ -1,7 +1,7 @@
 ---
 title: Fuck You
 category: paintings
-series: pop
+series: emotion
 year: 2016
 image: fuckyou.jpg
 size: 

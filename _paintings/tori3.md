@@ -1,7 +1,7 @@
 ---
 title: 鳥ちゃん A Bird
 category: paintings
-series: bird
+series: simple
 year: 2012
 image: tori3.jpg
 size: 

@@ -1,7 +1,7 @@
 ---
 title: bridge
 category: paintings
-series: lewisham
+series: fragments of memories
 year: 2019
 image: bridge.jpg
 size: 

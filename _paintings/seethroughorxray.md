@@ -1,7 +1,7 @@
 ---
 title: See through or Xray
 category: paintings
-series: berlin
+series: emotion
 year: 2018
 image: seethroughxray.JPG
 size: 66cm x 50cm

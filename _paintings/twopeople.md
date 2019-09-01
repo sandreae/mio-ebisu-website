@@ -1,7 +1,7 @@
 ---
 title: Painter
 category: paintings
-series: towada
+series: place
 year: 2019
 image: painter.JPG
 size: 

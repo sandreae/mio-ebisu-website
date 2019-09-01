@@ -1,7 +1,7 @@
 ---
 title: Flower
 category: paintings
-series: bambinart
+series: simple
 year: 2017
 image: flower.jpg
 size: 80cmx100cm

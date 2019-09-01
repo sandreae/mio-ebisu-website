@@ -1,7 +1,7 @@
 ---
 title: 家　House
 category: paintings
-series: bambinart
+series: place
 year: 2012
 image: house.JPG
 size: 

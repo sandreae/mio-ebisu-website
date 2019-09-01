@@ -1,7 +1,7 @@
 ---
 title: Tempelhoferfeld
 category: paintings
-series: berlin
+series: place
 year: 2017
 image: tempelhofer-feld.jpg
 size: 70cmx50cm

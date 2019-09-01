@@ -1,7 +1,7 @@
 ---
 title: ピンクマン Pink Man
 category: paintings
-series: tokyo
+series: emotion
 year: 2011
 image: pinkman.jpg
 size: 

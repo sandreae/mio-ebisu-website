@@ -1,7 +1,7 @@
 ---
 title: canal
 category: paintings
-series: lewisham
+series: landscape
 year: 2019
 image: canal.jpg
 size: 
