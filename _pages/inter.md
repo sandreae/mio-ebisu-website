@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Interdisciplinary Practice
 title: Interdisciplinary Practice 
 permalink: /inter/
 ---
