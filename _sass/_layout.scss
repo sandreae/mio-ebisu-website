@@ -14,12 +14,12 @@ h3 {
 	line-height: 1;
 }
 h1 {
-	color: $color-primary;
+	color: $heading-font-color;
 	font-size: 2.5em;
 	a,
 	a:visited {
 		text-decoration: none;
-		color: $color-primary;
+		color: $heading-font-color;
 	}
 }
 h2 {
