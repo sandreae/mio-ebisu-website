@@ -1,7 +1,7 @@
 ---
 title: bridge
 category: paintings
-series: 2019
+series: lewisham
 year: 2019
 image: bridge.jpg
 size: 

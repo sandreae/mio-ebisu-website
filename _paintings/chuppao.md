@@ -1,7 +1,7 @@
 ---
 title: チュッパ男 Chuppao
 category: paintings
-series: none
+series: pop
 year: 2011
 image: chuppao.jpg
 size: 

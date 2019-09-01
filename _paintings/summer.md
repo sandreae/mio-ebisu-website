@@ -1,7 +1,7 @@
 ---
 title: Summer
 category: paintings
-series: hoffnung
+series: landscape
 year: 2017
 image: summer.jpg
 size: 100cmx70cm

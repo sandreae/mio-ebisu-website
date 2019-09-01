@@ -1,7 +1,7 @@
 ---
 title: Electoric Store's Advertisement
 category: paintings
-series: none
+series: tokyo
 year: 2015
 image: camera.jpg
 size: 

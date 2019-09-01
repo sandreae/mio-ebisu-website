@@ -1,7 +1,7 @@
 ---
 title: Hampton
 category: paintings
-series: none
+series: landscape
 year: 2012
 image: hampton.jpg
 size: 

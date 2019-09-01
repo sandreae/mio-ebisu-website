@@ -1,7 +1,7 @@
 ---
 title: Granny's Livingroom
 category: paintings
-series: none
+series: bambinart
 year: 2016
 image: granny-livingroom.jpg
 size: 

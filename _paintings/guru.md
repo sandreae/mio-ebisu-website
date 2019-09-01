@@ -1,7 +1,7 @@
 ---
 title: Guru
 category: paintings
-series: portrait
+series: bambinart
 year: 2017
 image: guru.jpg
 size: 140cmx60cm

@@ -1,7 +1,7 @@
 ---
 title: Flower Market
 category: paintings
-series: none
+series: lewisham
 year: 2019
 image: flowermarket.JPG
 size: 
