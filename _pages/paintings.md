@@ -4,33 +4,45 @@ title: Paintings
 permalink: /paintings/
 type: paintings
 series:
-- title: fragments of memories
-  description: a
+- title: lewisham
+  description: 
  
-- title: place
-  description:  
+
+
+
+- title: bambinart
+  description: 
+
+  ---
 
 - title: landscape
-  description: a
+  description: 
 
-- title: simple
-  description: a
   
  
-- title: urban
-  description: a
-  
+- title: tokyo
+  description: 
 
-- title: emotion
+  ---
+
+- title: pop
   description: 
 
 
-- title: monotone
+- title: blackandwhite
   description:
 
+- title: Paintings
+permalink: /paintings/
 
+- title: berlin 
+  description:  
 
+- title: towada
+  description: 
 
+  - title: bird
+  description: 
 
 
 
