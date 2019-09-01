@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="gallery">
-{% assign sorted_paintings = site.paintings | sort: 'series' %}
+{% assign sorted_paintings = site.paintings %}
   {% for i in page.year %}
   <div class="year-title">{{i}}</div>
   <ul>
