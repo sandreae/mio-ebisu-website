@@ -2,9 +2,10 @@
 layout: default
 ---
 
-{{ content }}
 
 <div class="gallery">
+<h2>Exhibitions</h2>
+<div>{{ content }}</div>
 {% assign sorted_exhibitions = site.exhibitions %}
   {% for i in page.series %}
   <h3 class="year-title">{{i.title}}</h3>

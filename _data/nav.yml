@@ -10,14 +10,23 @@
 - title: "Contact"
   href: "/contact/"
 
-- title: "Recent Works"
-  href: "/recent/"
-
 - title: "Drawings"
   href: "/drawings/"
 
 - title: "Paintings"
-  href: "/archive/"
+  href: "/paintings/"
 
 - title: "Exhibitions"
   href: "/exhibitions/"
+
+- title: "Contextual Practice 1"
+  href: "/contextual-practice-1/"
+
+- title: "Contextual Practice 2"
+  href: "/contextual-practice-2/"
+
+- title: "Contextual Practice 3"
+  href: "/contextual-practice-3/"
+
+- title: "Essays"
+  href: "/essays/"

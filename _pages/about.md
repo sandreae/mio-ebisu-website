@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-##Bio
    
 Born in Tokyo in 1987, currently live in London UK. Studying at Wimbledon College of Art MA Painting. Finished B.A. in Fine Art at Musashino Art University Tokyo in 2012.
 
