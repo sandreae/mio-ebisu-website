@@ -9,23 +9,30 @@ body {
 
 h3 {
 	font-weight: 600;
-	color: $heading-font-color;
+	color: black;
 	font-family: $heading-font;
 	line-height: 1;
 }
 h1 {
-	color: $heading-font-color;
+	color: black;
 	font-size: 2.5em;
 	a,
 	a:visited {
 		text-decoration: none;
-		color: $heading-font-color;
+		color: black
 	}
 }
 h2 {
 	font-size: 2em;
 	margin: 0px;
 }
+
+img {width: 100%;}
+
+.essay img {
+	width: 50%;
+}
+
 a,
 a:visited {
 	color: $link-color;
@@ -69,7 +76,6 @@ main {
 }
 
 .page {
-	{
 	padding-left: 10px;
 	width: 100%;
 }

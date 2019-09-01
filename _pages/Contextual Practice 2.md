@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: essay
 title: Contextual Practice 2
 permalink: /contextual-practice-2/
 ---
 
-2000 Words Contextual Practice
+# 2000 Words Contextual Practice
 
 # The inside of *'Tree Canterbury'* 
 

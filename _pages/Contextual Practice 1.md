@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: essay
 title: Contextual Practice 1
 permalink: /contextual-practice-1/
 ---
 
-# 1000words contextual practice
+# 1000 words contextual practice
 
 To re-experience the private mental view by touching the outline of half-remembered perception.
 
