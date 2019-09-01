@@ -5,7 +5,6 @@ permalink: /contextual-practice-2/
 ---
 
 2000 Words Contextual Practice
-===
 
 # The inside of *'Tree Canterbury'* 
 

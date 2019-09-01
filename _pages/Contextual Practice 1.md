@@ -3,30 +3,18 @@ layout: page
 title: Contextual Practice 1
 permalink: /contextual-practice-1/
 ---
+
 # 1000words contextual practice
 
 To re-experience the private mental view by touching the outline of half-remembered perception.
 
-
-
-
-
-
 Looking back to my childhood, I was always looking forward to a long school holiday. My father lived separately from my family for his job as a mining engineer from when I was 5. Even though he lived in several places, all the places were deep minuteness area in Japan. On the last day of the school term, my mother, elder sister and me would head straightaway to his place by train or bus. The places we were heading to were the opposite of Tokyo where we lived. One corner shop, no station, but dark high mountains and the nation’s purest river. I loved this moment of departure to travel to an unfamiliar place, away from the school and friends that occupied my reality. The unusual everyday which was surrounded by epic nature and the nonexistence of human being were a fantasy for me. When my emotional feeling moved, at the same time, I had a sort of frustration. It was from my confusion of not being able to digest the feeling recieved from the overwhelming wilderness. If a loneliness happens when you want a relationship with someone, the feeling was close to it. “How can I be part of the scene? ” The desire that drive me to make paintings all the time.I want to know how other artists respond to these strong emotional reactioin in paintings.
 
-
-
-
-
 Peter Doig
-
-
 
 “So many of the paintings are of Canada, but in a way I want it to be more of an imaginary place - a place that’s somehow a wilderness”
 
  -Peter Doig (Judith N, Peter Doig, 2008, Tate, London, p11)
-
-
 
 Responses to overwhelming emotional reactions to our landscape and the world surrounding us by painters has been in resurgence. Swedish painter Manma Andersson paints landscapes, classrooms or domestic interiors, all places we are familiar with, but the environment is often covered with shadows of anxiety. A crowd of transparent people in the street of German painter Daniel Richter’s Duisen, 2004, reminds us of an uneasiness surrounded by a crowd of anonymous people in the street. We can see the artist’s private visual memories through their paintings.
 
