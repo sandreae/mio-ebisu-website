@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: essay
 title: Contextual Practice 2
 permalink: /contextual-practice-2/
 ---
