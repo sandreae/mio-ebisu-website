@@ -19,17 +19,20 @@
 - title: "Exhibitions"
   href: "/exhibitions/"
 
-- title: "Contextual Practice 1"
-  href: "/contextual-practice-1/"
-
-- title: "Contextual Practice 2"
-  href: "/contextual-practice-2/"
-
-- title: "Contextual Practice 3"
-  href: "/contextual-practice-3/"
-
 - title: "Essays"
-  href: "/essays/"
+  subcategories:
 
-- title: "Interdisciplinary Practice "
-  href: "/inter/"
+  - subtitle: "Contextual Practice 1"
+    subhref: "/contextual-practice-1/"
+
+  - subtitle: "Contextual Practice 2"
+    subhref: "/contextual-practice-2/"
+
+  - subtitle: "Contextual Practice 3"
+    subhref: "/contextual-practice-3/"
+
+  - subtitle: "Essays"
+    subhref: "/essays/"
+
+  - subtitle: "Interdisciplinary Practice "
+    subhref: "/inter/"
