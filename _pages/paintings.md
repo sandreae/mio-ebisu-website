@@ -40,9 +40,6 @@ series:
   description:
 
 
-- title: bird
-  description: 
-
 
 
 
