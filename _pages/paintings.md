@@ -1,36 +1,23 @@
 ---
 layout: paintings
 title: Paintings
-permalink: /paintings/
+permalink: "/paintings/"
 type: paintings
 series:
 - title: space collage
-  description: a
-
+  description: 
 - title: fragments of memories 
-  description: a
- 
-
+  description: 
 - title: place
   description: 
-
-
 - title: landscape
   description: 
-
-
- 
 - title: urban
   description: 
-
-
 - title: simple
   description: 
-
 - title: emotion
   description: 
-
-
 - title: blackandwhite
   description:
 
