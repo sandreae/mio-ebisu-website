@@ -1,7 +1,7 @@
 ---
 layout: paintings
 title: Paintings
-permalink: /paintings/
+permalink: "/paintings/"
 type: paintings
 series:
 - title: space collage
