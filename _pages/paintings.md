@@ -17,7 +17,7 @@ series:
 - title: place
   description: 
 
-  ---
+  
 
 - title: landscape
   description: 
@@ -27,7 +27,7 @@ series:
 - title: urban
   description: 
 
-  ---
+
 
 - title: simple
   description: 
@@ -40,7 +40,7 @@ series:
   description:
 
 
-  - title: bird
+- title: bird
   description: 
 
 
@@ -49,4 +49,3 @@ series:
 
 
 
----
