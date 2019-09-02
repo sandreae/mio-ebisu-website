@@ -27,11 +27,7 @@ In his early time, he worked as a scene painter in the film industry. He explore
 creates a dream like scene which is abstract in essence yet also fully believable.  
 
 
-
-
-
 Makiko Kudo
-
 
 
 The modern Japanese painter Makiko Kudo who has been described as an artist from the “Micro Pop” movement by art critic Midori Matsui in her curated exhibition “Winter Garden: The Exploration of the Micropop Imagination in Contemporary Japanese Art” in Art Tower Mito in 2007 in Japan. Accroding to Matsui’s manifesto,   
@@ -45,9 +41,6 @@ The modern Japanese painter Makiko Kudo who has been described as an artist from
 Micropop is an aesthetic movement of a certain group of Japanese artists born between 1968 and 1980 when raised to frame during the 1990s and Japan’s “Lost Decade” of radically declining national economy. Compared to their parents’ generation who celebrated the new nations rapidly growing economy, young people of Makiko’s generation had started having doubt to the worship of growth. This led them to the action of not growing, becoming adult-children was the way they express their resistance to the old generation and society. To give up changing, the mood of melancholy covered them. For example, describe herself as “A sad monster” in answer of “who are you?” in an interview of Phaidon. (Phaidon, Inside the mind of Makiko Kudo, https://uk.phaidon.com/agenda/art/articles/2012/february/27/inside-the-mind-of-makiko-kudo/ ) I can see her sensitive emotional personality in her lyrical atmospheric painting. The relaxed and honest brush stroke carries the dense colour compositions  and reflect her imaginary world. Plants and flowers are frequent motifs in her paintings. They are drawn evenly and equally with care one by one. Building, road any inanimate objects are brought to life in freshness and simplicity of form. We can see similarity in Herni Rousseau’s paintings. He never mastered any traditional method, the leaves were painted carefully individually, figures are rigid and more like wood. The time of the introduction of industrial machines, beauty and creativity were eliminated from from the work of people, pure immediate expression of an artist’s sense was considered to be true creativity by society at that time. Her delicate brush strokes remind us of the naïve artist. For being Japanese and her manga illustrated style figure may lead to be linked under “superflat” [1]declared by Takashi Murakami. However, Makiko doesn’t use manga itself as her main theme not as much as other artists from Kaikaikiki such as Aya Takano who  describes herself as a manga writer. Makiko’s manga style figures appeared from her unconsciousness. In the same interview she said “The world has so much trouble, but I think it’s still beautiful ” Her attitude is not to deny the world outside of her own, the children in her paintings are her resistance and suggestion to a modern
 
 society of establishments of institutions, an example of a what the boundaryless world could be like.  
-
-
-
 
 
 To re-experience by making paintings is the a to process overwhelming issues such as nature or societies, that’s we cannot change easily. Like Henri Rousseau and other Sunday Painters they indulge themselves in their imaginary visions and fantasies, and escaping from unavoidable reality. To paint is to fill the gap between their ideal reality and the reality outside of their studio. Artist’s imagination is a way to understand ours scene. It appears as a mark the painter’s gesture on the surface of the painting. To break to the surface owns of private view allows us to see hidden elements in our world.

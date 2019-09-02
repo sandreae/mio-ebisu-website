@@ -46,7 +46,7 @@ a:hover {
 }
 
 main {
-	padding-top: 80px;
+	padding-top: 20px;
 	max-width: $content-width;
   @include tablet {
   	padding-left: $nav-width-tablet;
@@ -130,8 +130,8 @@ main {
 aside {
 	background-color: $light;
 	width: $nav-width;
-	height: 40px;  
-	position: fixed;
+	height: 140px;
+	position: relative;
 	top: 0;
 	left: 0;
 	z-index: 2;
@@ -189,6 +189,7 @@ aside {
   @include tablet {
   	width: $nav-width-tablet;
 	height: 100vh;
+	position: fixed;
 	nav ul {
 		width: $nav-width-tablet;
 		li {
@@ -201,11 +202,12 @@ aside {
   @include desktop {
   	width: $nav-width-desktop;
 	height: 100vh;
+	position: fixed;
 	nav ul {
 		width: $nav-width-desktop;
 		li {
 			width: $nav-width-desktop;
-			padding: 0px 0px 0px 0px;
+			padding: 10px 0px 0px 0px;
 			}
 		}
 	}
