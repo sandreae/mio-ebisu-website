@@ -12,12 +12,9 @@ series:
   description: 
  
 
-
-
 - title: place
   description: 
 
-  
 
 - title: landscape
   description: 
@@ -26,7 +23,6 @@ series:
  
 - title: urban
   description: 
-
 
 
 - title: simple
