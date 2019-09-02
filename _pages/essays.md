@@ -40,6 +40,7 @@ Studio Hunt2
 ===
 
 ![](https://i.imgur.com/4zkRk2V.jpg)
+
 photo by Mio Ebisu
 
 
@@ -146,6 +147,7 @@ Intervening in something that you know and are well known to others may satisfy 
 While I was research about Rose Wylie, I encountered a word of reverse perspective. I have known this word since the elementary school in Japanese history class but it was gone away to oblivion. It was brought it back to my mind. I learnt through the 12th centruries  scroll painting  'Genji-Monogatari-Emaki'源氏物語絵巻 : Genji-Monogatari('Tale of Genji') is a classic work of Japanese literature written by the noblewoman and lady-in-waiting Murasaki Shikibu in the early years of the 11th century. Emaki :絵巻 means scroll painting. School text book said that this scroll painting uses pictorial techniques such as 'fukinuki-yatai' (blown-off roof) and 'reverse perspective'. fukinuki-yatai is a form of composition that gives a  bird's-eye view of the interior of the building, roofs or ceilings are not shown. 
 
 ![](https://i.imgur.com/i7wR1yq.jpg)
+
 （Genji-monogatari-emaki：源氏物語絵巻）
 .
 
@@ -176,11 +178,12 @@ He mentioned **"moving focus"** in this lecture. According to him, eye is moving
 
 
 He mentioned a fixed point of view perspective take audience outside of the painting. This point of view is so intresting,,,,,.  
-https://www.youtube.com/watch?v=FvZmKMEdetY
+[https://www.youtube.com/watch?4_lcb28fCz8](https://www.youtube.com/watch?v=FvZmKMEdetY)
 
 I was so excited, so I made a drawing with the sense of moving focus. 
 
 ![](https://i.imgur.com/nw4hQaC.jpg)
+
 This is a view from a sofa where I sit. 
 
 ![](https://i.imgur.com/b7MohrX.jpg =50%x)
@@ -191,14 +194,15 @@ This is a view from a sofa where I sit.
 ![](https://i.imgur.com/80IOegB.jpg =50%x)
 ![](https://i.imgur.com/IqIfdnZ.jpg =50%x)
 ![](https://i.imgur.com/7vVDwcb.jpg =50%x)
+
 (photos with multiple perspective for this drawing)
 
 ![](https://i.imgur.com/Yw3Of5a.jpg)
+
 (My old sketch from 2017 'Kitchen' I used similar way of looking in this drawing)
 
 I can see the diference perception of visual between here and Japan in advertising or photo edited with photoshop. For example adviertising of tourist spot, Japanese like to leave blank and empty space, no much colour contrast, no shadow and fading the material details away, they like to give an atmosphere to viewer the place when you are there. Here, tourist spots edited dramatic, high contrast and focus on detail texture. This is that I can see somehow the principle of looking at the view is different. Japanese advertise focus on giving information of the simulation of being there. British advertise focus on what you will see when you are there.      
 
 
-{%youtube 4_lcb28fCz8 %}
-
+[https://www.youtube.com/watch?4_lcb28fCz8](https://www.youtube.com/watch?4_lcb28fCz8)
 
