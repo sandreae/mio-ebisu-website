@@ -4,7 +4,6 @@ title: Paintings
 permalink: /paintings/
 type: paintings
 series:
-
 - title: space collage
   description: 
 
