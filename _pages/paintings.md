@@ -5,10 +5,10 @@ permalink: /paintings/
 type: paintings
 series:
 - title: space collage
-  description: 
+  description: a
 
 - title: fragments of memories 
-  description: 
+  description: a
  
 
 - title: place
@@ -18,7 +18,7 @@ series:
 - title: landscape
   description: 
 
-  
+
  
 - title: urban
   description: 
@@ -34,7 +34,7 @@ series:
 - title: blackandwhite
   description:
 
-
+---
 
 
 
