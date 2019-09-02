@@ -5,21 +5,21 @@ permalink: "/paintings/"
 type: paintings
 series:
 - title: space collage
-  description: 
+  description: I spin images out of memories. Everyday is irrelevantly and relevantly knitted by fragments of events, thoughts, visual memories.  Memories come and go, arise and disappear. 
 - title: fragments of memories 
   description: 
 - title: place
-  description: 
+  description: The place I want to go again, the place I want to go someday.
 - title: landscape
-  description: 
+  description: The place I want to experience the scale again, the place I want to go someday to feel the scale. 
 - title: urban
-  description: 
+  description: A nostalgic atmosphere of an inanimate being.  
 - title: simple
-  description: 
+  description: Visually influenced by found images. 
 - title: emotion
-  description: 
+  description: Emotion. 
 - title: blackandwhite
-  description:
+  description: 
 
 ---
 

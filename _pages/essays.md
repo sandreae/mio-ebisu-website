@@ -141,5 +141,64 @@ However, people who go to Madame Tussauds must be aware of the wiredness that th
 Intervening in something that you know and are well known to others may satisfy your desire for approval by other people. For those who buy spurious Van Gogh pictures,  billions of money would cost, now it is available at 800 €, what a bargain.  People tend to be sweetened to what they know. 
 
 
+# Perspective
+
+While I was research about Rose Wylie, I encountered a word of reverse perspective. I have known this word since the elementary school in Japanese history class but it was gone away to oblivion. It was brought it back to my mind. I learnt through the 12th centruries  scroll painting  'Genji-Monogatari-Emaki'源氏物語絵巻 : Genji-Monogatari('Tale of Genji') is a classic work of Japanese literature written by the noblewoman and lady-in-waiting Murasaki Shikibu in the early years of the 11th century. Emaki :絵巻 means scroll painting. School text book said that this scroll painting uses pictorial techniques such as 'fukinuki-yatai' (blown-off roof) and 'reverse perspective'. fukinuki-yatai is a form of composition that gives a  bird's-eye view of the interior of the building, roofs or ceilings are not shown. 
+
+![](https://i.imgur.com/i7wR1yq.jpg)
+（Genji-monogatari-emaki：源氏物語絵巻）
+.
+
+I assumed "perspective" referes only for the one is  mathmatically mesurable. Other is not called "perspective" and not be concerned as an appearance of reality. 
+
+What kind of perspective I am using when I am painting? I was not aware how I look the view.
+
+
+Just a sound of the word was enough me to get excited. I had been struggling to reconstruct my painting which blends West and East aesthetics, even though I didn't know what Eastern paintings are as well as what Western paintings are. I tried to understand them from my physical, emotional experiences when I see them in real or books. Experiemce of Japanese paintings are memories of physical and mental comfortness. Most of them were not made for "fine art" made for interior in temples, shrines for religious reasons. They are blending together nicely with gardens, seasons and philosophy of harmony. I always wanted to use the essence of them, but this is difficult because they seem to be too much stylised.
+
+When I refer "Western painting" was the painting s are painted by imitation of nature. A convincing illusion of a tridimensional scene into two-dimensional.Every pictorial representation such as size and shape are governed by the point of view. 
+
+This way is somehow too rigid for me. 
+
+
+
+
+
+On the way of contenuing my research, I found that David Hockney has been experimenting about this subject since 80's. I am glad to know that this has been a common issue in painting. 
+I watched lectures that he gave at Getty and Southern California Institute of Architecture(SCI-arc) on YouTube which were really great. The one at SCI-arc, he talked about the new documentary film he and Phillip Haas made about 17th century Chinese scroll painting. The length of documentary was supposed to be 10min but for scroll painting, it needs 12 mins at least to show the whole. In case of scroll paintings, this media is more like an animation shared ongoing time sequence with viewers.
+
+He mentioned **"moving focus"** in this lecture. According to him, eye is moving even the imgae stop, and when you look at the surface it took time to get a sensce of space, Chinese painting uses this function of eyes as a principle. 
+![](https://news.artnet.com/app/news-upload/2017/11/Day_On_Grand_Canal_1024x1024-726x1024.jpg)
+
+ 
+
+
+
+
+He mentioned a fixed point of view perspective take audience outside of the painting. This point of view is so intresting,,,,,.  
+https://www.youtube.com/watch?v=FvZmKMEdetY
+
+I was so excited, so I made a drawing with the sense of moving focus. 
+
+![](https://i.imgur.com/nw4hQaC.jpg)
+This is a view from a sofa where I sit. 
+
+![](https://i.imgur.com/b7MohrX.jpg =50%x)
+![](https://i.imgur.com/t3aLvfi.jpg =50%x)
+![](https://i.imgur.com/HzyyPMZ.jpg =50%x)
+![](https://i.imgur.com/e4zokLc.jpg =50%x)
+![](https://i.imgur.com/MLiyqYC.jpg =50%x)
+![](https://i.imgur.com/80IOegB.jpg =50%x)
+![](https://i.imgur.com/IqIfdnZ.jpg =50%x)
+![](https://i.imgur.com/7vVDwcb.jpg =50%x)
+(photos with multiple perspective for this drawing)
+
+![](https://i.imgur.com/Yw3Of5a.jpg)
+(My old sketch from 2017 'Kitchen' I used similar way of looking in this drawing)
+
+I can see the diference perception of visual between here and Japan in advertising or photo edited with photoshop. For example adviertising of tourist spot, Japanese like to leave blank and empty space, no much colour contrast, no shadow and fading the material details away, they like to give an atmosphere to viewer the place when you are there. Here, tourist spots edited dramatic, high contrast and focus on detail texture. This is that I can see somehow the principle of looking at the view is different. Japanese advertise focus on giving information of the simulation of being there. British advertise focus on what you will see when you are there.      
+
+
+{%youtube 4_lcb28fCz8 %}
 
 
