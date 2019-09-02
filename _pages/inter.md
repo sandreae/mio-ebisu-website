@@ -1,5 +1,5 @@
 ---
-layout: Interdisciplinary Practice
+layout: essay
 title: Interdisciplinary Practice 
 permalink: /inter/
 ---
