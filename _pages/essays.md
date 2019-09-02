@@ -54,9 +54,9 @@ Studio Hunt2
 photo by Mio Ebisu
 
 
-It has been not so difficult to find a studio in London than I expected. I had to have a studio before I graduate Wimbledon to continue to work without any blank even this will effect financially,,,.This is same as everywhere, it is hard to let people know who I am in the place where I don’t know anybody. In some places, I am asked to take a criminal closure to proof I am not a criminal. 
+It has not been so difficult to find a studio in London than I expected. I had to have a studio before I graduate Wimbledon to continue to work without any blank even this will effect financially,,,.This is same as everywhere, it is hard to let people know who I am in the place where I don’t know anybody. In some places, I am asked to take a criminal closure to proof I am not a criminal. 
 
-One of my friend who is a musician had a studio before through SET which is a an art organization for providing affordable studios to artists. An amazing policy they have is “first come, first served” basis. 
+One of my friend who is a musician had a studio before through SET which is a an art organization for providing affordable studios to artists. An amazing policy they have is “first come, first served” basis. They have several studio spaces different area in London, all associated member is 500.  
 
 I contacted SET for a viewing. 
 
@@ -106,11 +106,22 @@ I am organizing a group exhibition in the first weekend of October at the projec
 
 
 
-# After graduate
+# Art Funding
 
-I have a solo exhibition at the gallery I am represented in Tokyo in next January. I might organize a group exhibition in the project space in my studio. After graduate, I will apply prizes especially John Moore Painting Prize. My income from painting is mainly from the gallery in Tokyo. Such an emerging artists like me, I have few collectors buy my works regularly which is miracle.  One of them Okada-san, he is on the book I read for research as an important collector in Japanese contemporary art scene, he is a super nice guy….This is a good thing in Japanese art scene, contemporary art is new, not established, there are people want to support artists  to help the small Japanese art scene. On the contrary, here is different, art is main stream, and established. Tons of artists are produced each year, helps the art world busy and competitive. 
 
-However, many countries in Europe has an amazing funding (Japan is rubbish in this field). In Berlin, there are lots of different funds you can apply if you live there, no matter your nationalities. Many alternative spaces are funded by Berlin city, so director/artist can get pay yourself by organizing space. Even though UK government cut the budged on culture, I thnk a system of Arts council England is amazing. You can apply 4 times a year, which you can try many times until you get it! I worked with British musicians to have events in Japan, they applied the funding and luckily, we got it, it allowed me organize events in Japan and get paid. Japanese art funding opens for university or big organization, it is almost impossible for individual artist get it. Public funding is so important factor for artists for survive this society, also great for society with full of culture, and happening. 
+Represented by a commercial gallery to sell your art works is not the only way to be artists. 
+Many countries in Europe has an amazing funding (Japan is rubbish in this field). In Berlin, there are lots of different funds you can apply if you live there, no matter your nationalities. 
+
+Many artists run spaces are funded by Berlin city, so director/artist can get pay yourself by organizing space. This is why there are many indepedent art spaces in Berlin. Public funding encourages artists to create events, opens cultural spaces. Art should not be considered as free labour, art and cultural activities bring huge benefit to a society and a city. Berlin could not be an attractive city without artists, a gentlification in many places tends to happen after artists brought culture. A creative effort should be valued by a government to keep the place active and lively. Because there are area that could not be a commercial business. 
+
+
+The great thing about Arts council England, you can apply 4 times a year, which you can try many times until you get it. If you have an adress in European Union you are elligible which means I am elligible too. They make the decision in 6 weeks which is quick as well. 
+
+I worked with British musicians to organize collaboration events in Japan, we(I am not eligilbe but I am involved with as a collaborator) applied the funding and luckily, we got it, it allowed me organize events in Japan and get paid. 
+
+Art funding in Japan are really limited. Number of fundings are few, and most of the selected candidates are universities or big organizations. It is almost impossible for individual artist get it. 
+
+Public funding is so important factor for artists for survive this society, also great for society with full of culture, and happening. 
 
 
 
