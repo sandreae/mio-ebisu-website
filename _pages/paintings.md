@@ -8,13 +8,13 @@ series:
 - title: space collage
   description: 
 
-- title: lewisham
+- title: fragments of memories 
   description: 
  
 
 
 
-- title: bambinart
+- title: place
   description: 
 
   ---
@@ -24,26 +24,21 @@ series:
 
   
  
-- title: tokyo
+- title: urban
   description: 
 
   ---
 
-- title: pop
+- title: simple
+  description: 
+
+- title: emotion
   description: 
 
 
 - title: blackandwhite
   description:
 
-- title: Paintings
-permalink: /paintings/
-
-- title: berlin 
-  description:  
-
-- title: towada
-  description: 
 
   - title: bird
   description: 

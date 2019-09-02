@@ -1,5 +1,5 @@
 ---
-title: Yellow
+title: Sardine
 category: drawings
 series: Washi
 year: 2019
