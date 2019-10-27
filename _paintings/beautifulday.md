@@ -1,7 +1,7 @@
 ---
 title: Beautifulday
 category: paintings
-series: today's words
+series: words for today
 year: 2019
 image: beautifulday.jpg
 size: 
