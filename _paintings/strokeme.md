@@ -1,7 +1,7 @@
 ---
 title: Stroke Me
 category: paintings
-series: today's words
+series: words for today 
 year: 2019
 image: strokeme.jpg
 size: 
