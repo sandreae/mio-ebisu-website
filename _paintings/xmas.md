@@ -1,7 +1,7 @@
 ---
 title: Xmas
 category: paintings
-series: 
+series: today's words
 year: 2019
 image: xmascard.jpg
 size: 

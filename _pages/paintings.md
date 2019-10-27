@@ -4,6 +4,9 @@ title: Paintings
 permalink: /paintings/
 type: paintings
 series:
+- title: 'today's words'
+  description: 
+
 - title: 'space collage'
   description: 'I spin images out of memories. Everyday is irrelevantly and relevantly knitted by fragments of events, thoughts, visual memories.  Memories come and go, arise and disappear.'
 - title: 'fragments of memories'

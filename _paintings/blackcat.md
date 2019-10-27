@@ -1,7 +1,7 @@
 ---
 title: Blackcat Head
 category: paintings
-series: 
+series: today's words
 year: 2019
 image: blackcat.jpg
 size: 

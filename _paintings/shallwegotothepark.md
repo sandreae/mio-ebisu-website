@@ -1,7 +1,7 @@
 ---
 title: Shall We Go to the Park?
 category: paintings
-series: 2019
+series: today's words
 year: 2019
 image: shallwegotothepark.jpg
 size: 
