@@ -20,8 +20,4 @@ series:
 - title: '2019'
   description: ''
 
-
-
-
-
-
+---
