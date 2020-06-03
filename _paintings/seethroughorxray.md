@@ -1,7 +1,7 @@
 ---
-title: See through or Xray
+title: C See through or Xray
 category: paintings
-series: emotion
+series: 2016-2018
 year: 2018
 image: seethroughxray.JPG
 size: 66cm x 50cm
