@@ -6,7 +6,7 @@ type: paintings
 series:
 
 - title: '2016-2018'
-  description: 
+  description: ''
 - title: 'landscape'
   description: 'The place I want to experience the scale again, the place I want to go someday to feel the scale.'
 - title: 'urban'
@@ -18,7 +18,7 @@ series:
 - title: 'blackandwhite'
   description: '' 
 - title: '2019'
-  description: 
+  description: ''
 
 
 
