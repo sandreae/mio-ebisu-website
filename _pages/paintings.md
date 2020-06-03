@@ -7,8 +7,8 @@ series:
 
 - title: '2016-2018'
   description: ''
-- title: 'landscape'
-  description: 'The place I want to experience the scale again, the place I want to go someday to feel the scale.'
+- title: ' '
+  description:
 - title: 'urban'
   description: 'A nostalgic atmosphere of an inanimate being.'
 - title: 'simple'

@@ -1,7 +1,7 @@
 ---
 title: Snowdrop
 category: paintings
-series: landscape
+series: 
 year: 2018
 image: スノードロップ　Snowdrop_2018_oil on canvas_160×100cm.jpg
 size: 160cm x 100cm
