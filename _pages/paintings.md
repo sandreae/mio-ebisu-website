@@ -5,7 +5,7 @@ permalink: /paintings/
 type: paintings
 series:
 
-- title: '2019'
+- title: 2019
   description: ''
 - title: '2016-2018'
   description: ''
