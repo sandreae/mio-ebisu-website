@@ -8,8 +8,6 @@ series:
   description: 
 - title: 'space collage'
   description: 'I spin images out of memories. Everyday is irrelevantly and relevantly knitted by fragments of events, thoughts, visual memories.  Memories come and go, arise and disappear.'
-- title: 'fragments of memories'
-  description: '' 
 - title: 'place'
   description: 'The place I want to go again, the place I want to go someday.'
 - title: 'landscape'
