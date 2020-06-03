@@ -1,7 +1,7 @@
 ---
 title: Granny's Livingroom
 category: paintings
-series: place
+series: 2016-2018
 year: 2016
 image: granny-livingroom.jpg
 size: 

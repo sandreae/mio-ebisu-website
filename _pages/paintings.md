@@ -4,10 +4,9 @@ title: Paintings
 permalink: /paintings/
 type: paintings
 series:
-- title: 'words for today'
+
+- title: '2016-2018'
   description: 
-- title: 'place'
-  description: 'The place I want to go again, the place I want to go someday.'
 - title: 'landscape'
   description: 'The place I want to experience the scale again, the place I want to go someday to feel the scale.'
 - title: 'urban'
@@ -19,7 +18,8 @@ series:
 - title: 'blackandwhite'
   description: '' 
 
----
+- title: '2019'
+  description: 
 
 
 

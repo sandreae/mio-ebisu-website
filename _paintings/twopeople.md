@@ -1,7 +1,7 @@
 ---
 title: Painter
 category: paintings
-series: place
+series: 2016-2018
 year: 2019
 image: painter.JPG
 size: 

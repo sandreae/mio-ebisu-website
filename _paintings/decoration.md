@@ -1,7 +1,7 @@
 ---
 title: 装飾 Decoration
 category: paintings
-series: simple
+series: 2016-2018
 year: 2016
 image: decoration.jpg
 size: 

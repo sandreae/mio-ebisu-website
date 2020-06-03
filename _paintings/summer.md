@@ -1,7 +1,7 @@
 ---
 title: Summer
 category: paintings
-series: landscape
+series: 2016-2018
 year: 2017
 image: summer.jpg
 size: 100cmx70cm

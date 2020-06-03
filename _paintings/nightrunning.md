@@ -1,7 +1,7 @@
 ---
 title: 
 category: paintings
-series: emotion
+series: 2016-2018
 year: 2018
 image: nightview.JPG
 size: 
