@@ -2,7 +2,7 @@
 
 title: Viewpoint in Rain
 category: paintings
-series: place
+series: -2015
 year: 2013
 image: viewpoint.jpg
 size: 

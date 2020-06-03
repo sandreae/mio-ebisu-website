@@ -1,7 +1,7 @@
 ---
 title: Man with mobile by the sea 
 category: paintings
-series: place
+series: -2015
 year: 2014
 image: man-with-mobile-_fotor.jpg
 size: 

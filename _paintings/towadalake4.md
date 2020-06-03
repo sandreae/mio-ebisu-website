@@ -1,7 +1,7 @@
 ---
 title: 十和田湖 Todada Lake
 category: paintings
-series: place
+series: -2015
 year: 2012
 image: towadalake4.jpg
 size: 

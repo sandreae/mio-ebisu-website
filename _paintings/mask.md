@@ -1,7 +1,7 @@
 ---
 title: Mask
 category: paintings
-series: emotion
+series: -2015
 year: 2012
 image: mask.jpg
 size: 

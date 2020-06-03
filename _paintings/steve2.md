@@ -1,7 +1,7 @@
 ---
 title: Steve McQueen
 category: paintings
-series: simple
+series: -2015
 year: 2012
 image: steve2.jpg
 size: 

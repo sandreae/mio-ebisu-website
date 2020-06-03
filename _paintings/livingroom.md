@@ -1,7 +1,7 @@
 ---
 title: Livingroom
 category: paintings
-series: place
+series: -2015
 year: 2014
 image: livingroom.jpg
 size: 

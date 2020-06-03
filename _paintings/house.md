@@ -1,7 +1,7 @@
 ---
 title: 家　House
 category: paintings
-series: place
+series: -2015
 year: 2012
 image: house.JPG
 size: 

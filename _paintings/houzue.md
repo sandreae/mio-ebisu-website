@@ -1,7 +1,7 @@
 ---
 title: Houzue 
 category: paintings
-series: simple
+series: -2015
 year: 2014
 image: hozue.jpg
 size: 

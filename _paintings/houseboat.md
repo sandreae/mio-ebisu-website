@@ -2,7 +2,7 @@
 
 title: Houseboat
 category: paintings
-series: place
+series: -2015
 year: 2012
 image: houseboat.jpg
 size: 

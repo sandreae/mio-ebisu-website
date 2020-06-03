@@ -1,7 +1,7 @@
 ---
 title: youmeタウン youme town
 category: paintings
-series: place
+series: -2015
 year: 2013
 image: youme.jpg
 size: 

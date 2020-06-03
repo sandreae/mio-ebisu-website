@@ -1,7 +1,7 @@
 ---
 title: Electoric Departmentstore
 category: paintings
-series: urban
+series: -2015
 year: 2012
 image: yodhobashi.jpg
 size: 
