@@ -19,20 +19,3 @@
 - title: "Exhibitions"
   href: "/exhibitions/"
 
-- title: "Essays"
-  subcategories:
-
-  - subtitle: "Contextual Practice 1"
-    subhref: "/contextual-practice-1/"
-
-  - subtitle: "Contextual Practice 2"
-    subhref: "/contextual-practice-2/"
-
-  - subtitle: "Contextual Practice 3"
-    subhref: "/contextual-practice-3/"
-
-  - subtitle: "Essays"
-    subhref: "/essays/"
-
-  - subtitle: "Interdisciplinary Practice "
-    subhref: "/inter/"
