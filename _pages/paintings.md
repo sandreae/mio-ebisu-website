@@ -13,12 +13,7 @@ series:
   description: ''
 - title: ' '
   description:
-- title: 'urban'
-  description: 'A nostalgic atmosphere of an inanimate being.'
-- title: 'simple'
-  description: 'Visually influenced by found images.'
-- title: 'emotion'
-  description: 'Emotion.' 
+
 - title: 'blackandwhite'
   description: '' 
 
