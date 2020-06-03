@@ -5,7 +5,11 @@ permalink: /paintings/
 type: paintings
 series:
 
+- title: '2019'
+  description: ''
 - title: '2016-2018'
+  description: ''
+- title: '-2015'
   description: ''
 - title: ' '
   description:
@@ -17,8 +21,6 @@ series:
   description: 'Emotion.' 
 - title: 'blackandwhite'
   description: '' 
-- title: '2019'
-  description: ''
-- title: '-2015'
-  description: ''
+
+
 ---
