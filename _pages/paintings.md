@@ -14,8 +14,7 @@ series:
 - title: ' '
   description:
 
-- title: 'blackandwhite'
-  description: '' 
+
 
 
 ---
