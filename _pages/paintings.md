@@ -17,7 +17,6 @@ series:
   description: 'Emotion.' 
 - title: 'blackandwhite'
   description: '' 
-
 - title: '2019'
   description: 
 
