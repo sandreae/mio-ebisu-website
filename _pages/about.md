@@ -3,11 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-   
+
 Born in Tokyo in 1987, currently live in London UK. Studying at Wimbledon College of Art MA Painting. Finished B.A. in Fine Art at Musashino Art University Tokyo in 2012.
 
-Solo Exhibition
+![portrait]({{site.url}}/assets/portraits/portrait.png)
 
+Solo Exhibition
 
 2018 "The moss of the rock"  Bambinart Gallery, Tokyo  
 2017 “Absurd daily life between June 17th and February” Bambinart Gallery, Tokyo, Japan  
